@@ -10,7 +10,8 @@ This project includes data preprocessing, model training, evaluation, and perfor
 A detailed report of the project is included in this repository. 
 
 ---
-![Architecture](https://github.com/user-attachments/assets/653d5618-c14e-4db5-83ad-a1295c342936)
+![Architecture](https://github.com/user-attachments/assets/3717d492-3646-4fe4-897f-eeee76772b07)
+
 
 ## Models Implemented
 
