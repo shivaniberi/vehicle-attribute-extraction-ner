@@ -6,11 +6,11 @@ Named Entity Recognition (NER) system for extracting fine-grained vehicle attrib
 ## Overview
 
 Accurate extraction of vehicle attributes such as brand, model, color, type, orientation, and location is essential for natural-language-based vehicle retrieval systems. The FindVehicle dataset provides detailed annotations that enable the training of high-quality NER models.
-
 This project includes data preprocessing, model training, evaluation, and performance comparison between RNN, LSTM, BiLSTM, BERT, and RoBERTa architectures.
 A detailed report of the project is included in this repository. 
 
 ---
+![Architecture](https://github.com/user-attachments/assets/653d5618-c14e-4db5-83ad-a1295c342936)
 
 ## Models Implemented
 
